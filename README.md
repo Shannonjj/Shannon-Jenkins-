@@ -31,7 +31,8 @@ Conducted deep-packet inspections of DNS and HTTP/HTTPS traffic flows to isolate
 
 ### 📜 Selected Credentials
 - **M.S. in Cloud Computing Architecture** & **Graduate Certificate in Cloud Networking** (UMGC)
-- **Google AI Professional Certificate** & **Google Cybersecurity Professional Certificate** (In Progress)
+- ** B.S in Recreation Management** (Shaw University)
+-  **Google AI Professional Certificate** & **Google Cybersecurity Professional Certificate** (In Progress)
 - **AWS Certified Solutions Architect (Associate Training)** & **AWS Cloud Quest: Cloud Practitioner**
 - **The Bits and Bytes of Computer Networking** | Google
 - **Diploma in Six Sigma (Lean & DMAIC Framework)**

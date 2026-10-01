@@ -41,4 +41,5 @@ Conducted deep-packet inspections of DNS and HTTP/HTTPS traffic flows to isolate
 📫 **How to reach me:** 
 - **LinkedIn:** [https://www.linkedin.com/in/shannon-jenkins-224b4929/]
 - **Email:** Shannon.Jenkins101077@gmail.com
+- **Mobile:** (919)937-1089
 

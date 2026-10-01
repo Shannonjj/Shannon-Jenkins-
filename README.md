@@ -1,38 +1,44 @@
-# Project Name: [e.g., Automated Multi-Tier AWS Infrastructure]
+# Hi there, I'm Shannon Jenkins 👋 
 
-## 📌 Project Overview
-Provide a concise, 2-3 sentence description of exactly what this repository accomplishes. 
-*Example: This repository contains enterprise-grade YAML CloudFormation templates designed to automate the deterministic provisioning of a high-availability, multi-tier AWS environment. The infrastructure enforces strict network isolation and security compliance using standard IAM least-privilege policies.*
+Experienced Infrastructure Specialist and Cloud Architect holding a **Master of Science in Cloud Computing Architecture** and a **Graduate Certificate in Cloud Computing Networking**. My background spans from Layer 1 physical network deployments to Layer 7 multi-cloud automation, orchestration, and programmatic security enforcement.
 
-## 🏗️ Architectural Features & Impact
-- **Infrastructure as Code:** Built using modular [CloudFormation/Terraform] templates to eliminate configuration drift and allow rapid infrastructure replication.
-- **Network Segmentation:** Structured with distinct public, private, and isolated data subnets across multiple Availability Zones to ensure high-availability fault tolerance.
-- **Security-by-Design:** Integrated custom IAM Roles and PassRole boundaries to restrict resource permissions strictly to required programmatic tasks.
-- **Traffic Diagnostics:** Verified environment connectivity and validated protocol header behavior using Wireshark packet captures during development phase testing.
+I specialize in building secure, scalable, AI-integrated cloud systems and maintaining high-resilience automated infrastructure.
 
-## 🛠️ Technology Stack & Tools
-- **Cloud Provider:** AWS (VPC, IAM, EC2, Route 53, CloudFormation)
-- **Languages / Frameworks:** Python (Boto3), YAML, Bash scripting
-- **Testing Instruments:** Wireshark, Git Version Control
+---
 
-## 🚀 Deployment Instructions
-Provide quick steps for how a recruiter or engineer can run your code.
+### 🛠️ Technical Ecosystem & Toolkit
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com
-   cd your-repo-name
-   ```
-2. **Configure environment credentials:**
-   ```bash
-   # Ensure your AWS CLI or GCP Cloud SDK environment variables are exported
-   aws configure
-   ```
-3. **Execute the automation stack:**
-   ```bash
-   aws cloudformation create-stack --stack-name EnterpriseNetwork --template-body file://network-tier.yaml
-   ```
+- **Cloud Platforms:** AWS (VPC, Route 53, IAM, CloudFormation), Microsoft Azure, Google Cloud Platform (GCP)
+- **Networking & Diagnostics:** TCP/IP, DNS, DHCP, IPv4/IPv6 Subnetting, Wireshark Packet Forensics, Fiber/Copper Infrastructure
+- **Automation & IaC:** Python, Boto3, Terraform, AWS CloudFormation, Bash, YAML, Git/GitHub
+- **Security & Governance:** Identity & Access Management (IAM), Zero Trust Architecture, Least Privilege Enforcement, NIST Compliance Framework
+- **Process Optimization:** SCADA Automated Systems, Lean & DMAIC Methodologies (Six Sigma)
 
-## 📊 Verification & Logs
-Briefly explain how you proved it worked (e.g., *Include screenshots of successfully completed CloudFormation stack outputs, or sample Python execution logs printing resource auditing metrics in json format*).
+---
+
+### 📂 Highlighted Technical Projects
+
+#### ☁️ [Automated Cloud Infrastructure (AWS)](https://github.com)
+Engineered reusable YAML CloudFormation templates to automate deterministic provisioning of highly secure, multi-tier AWS network environments isolating application tiers via custom IAM policies.
+
+#### 🛡️ [ClearTrace | Cloud Governance & Audit Tool (GCP)](https://github.com)
+Developed a custom Python application utilizing cloud SDKs to programmatically audit GCP configurations, monitor resource state drift, and flag security inconsistencies against NIST frameworks.
+
+#### 🔍 [Network Forensics & Packet Analysis (Wireshark)](https://github.com)
+Conducted deep-packet inspections of DNS and HTTP/HTTPS traffic flows to isolate routing anomalies, verify header compliance, and resolve complex connectivity issues.
+
+---
+
+### 📜 Selected Credentials
+- **M.S. in Cloud Computing Architecture** & **Graduate Certificate in Cloud Networking** (UMGC)
+- **Google AI Professional Certificate** & **Google Cybersecurity Professional Certificate** (In Progress)
+- **AWS Certified Solutions Architect (Associate Training)** & **AWS Cloud Quest: Cloud Practitioner**
+- **The Bits and Bytes of Computer Networking** | Google
+- **Diploma in Six Sigma (Lean & DMAIC Framework)**
+
+---
+
+📫 **How to reach me:** 
+- **LinkedIn:** [https://www.linkedin.com/in/shannon-jenkins-224b4929/]
+- **Email:** Shannon.Jenkins101077@gmail.com
 
